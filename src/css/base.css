@@ -2,12 +2,17 @@
 /* color azul twitter #1d9bf0 */
 :root {
     --brand-color: #1d9bf0;
+    --gray-color: #cfd9de;
 }
 
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
 }
 
 a {
